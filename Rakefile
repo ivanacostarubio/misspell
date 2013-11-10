@@ -14,7 +14,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "Misspell"
+  gem.name = "misspell"
   gem.homepage = "http://github.com/ivanacostarubio/misspell"
   gem.license = "MIT"
   gem.summary = %Q{Let's have typos}
