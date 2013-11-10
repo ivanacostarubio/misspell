@@ -10,7 +10,8 @@ Installation
   gem install misspell
 ```
 
-
+Usage
+====================
 
 ```ruby
 
