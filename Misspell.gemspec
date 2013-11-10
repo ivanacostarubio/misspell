@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "Gemfile",
     "Gemfile.lock",
     "LICENSE.txt",
+    "Misspell.gemspec",
     "README.rdoc",
     "Rakefile",
     "VERSION",
