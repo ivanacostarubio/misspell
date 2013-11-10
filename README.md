@@ -1,4 +1,5 @@
-= Misspell
+Misspell
+====================
 
 You can have typos. We'll fix them for you at runtime. 
 
@@ -30,9 +31,3 @@ describe WTF do
 end
 
 ```
-
-== Copyright
-
-Copyright (c) 2013 Ivan Acosta-Rubio. See LICENSE.txt for
-further details.
-
