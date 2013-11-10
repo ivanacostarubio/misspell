@@ -3,6 +3,14 @@ Misspell
 
 You can have typos. We'll fix them for you at runtime. 
 
+Installation
+====================
+
+```bash
+  gem install misspell
+```
+
+
 
 ```ruby
 
